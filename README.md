@@ -1,0 +1,1 @@
+This repository contains a C program with a division by zero error and its solution. The bug is caused by dividing an integer by zero, which leads to undefined behavior. The solution demonstrates how to handle this error using error checking and conditional statements.
